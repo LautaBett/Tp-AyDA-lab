@@ -8,6 +8,7 @@ llenarlo con valores aleatorios entre 1 y 100 e imprimirlo.*/
 using namespace std;
 
 int main(){
+    
     int n;
 
     cout << "pasame un valor N natural: "<< endl;
