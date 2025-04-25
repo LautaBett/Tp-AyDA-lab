@@ -34,6 +34,7 @@ int main() {
         {"Pedro", 15570327},
         {"Maria", 15609411},
         {"Carlos", 15470424}
+        
     };
 
     string nombre;
